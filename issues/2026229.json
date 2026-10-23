@@ -1,0 +1,22 @@
+{
+  "packageVersion": 1,
+  "game": "fc3d",
+  "previousLatestIssue": "2026228",
+  "latestIssue": "2026229",
+  "drawCount": 1,
+  "draws": [
+    {
+      "issue": "2026229",
+      "drawNumber": "828",
+      "digits": [
+        8,
+        2,
+        8
+      ]
+    }
+  ],
+  "generatedAt": "2026-10-23T05:48:15.393Z",
+  "sourceLabel": "福彩3D开奖公开同步",
+  "payloadHash": "67220287a2201726aa8b2458c6ca783c65df626843355ae61df2f4c89f14bcf9",
+  "signature": "e931764012dac88b29c8c24eff32687b3bedb4ca655faced0bb951fe779cff100cca6e45c7d49f2e05a648a936235428a415acdd37c342b4c875f429654f0305"
+}
