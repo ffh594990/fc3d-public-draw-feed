@@ -1,9 +1,9 @@
 {
   "pass": true,
-  "version": "0.1.5",
-  "versionCode": 105,
-  "commit": "31c30b2dbc5aace0268fc40630c6ac860d691cf9",
-  "publishedAt": "2026-10-26T17:09:20+08:00",
+  "version": "0.1.6",
+  "versionCode": 106,
+  "commit": "6a61136571c8af74e15932252bbb030422ec6807",
+  "publishedAt": "2026-10-26T17:25:55+08:00",
   "platforms": [
     "android",
     "ios",
@@ -14,27 +14,27 @@
   "packages": [
     {
       "platform": "windows",
-      "path": "packages/0.1.5/windows.json",
-      "sha256": "b22e71c77819d5fd5a69e1b2a7b3e8a71da442419013f0d084c1f0de2a1c7354",
-      "bytes": 4140219
+      "path": "packages/0.1.6/windows.json",
+      "sha256": "96fc9cc81c256d7d8e58f9412571f18d856d69da2c2e328eb633ebdc3718a974",
+      "bytes": 4140499
     },
     {
       "platform": "macos",
-      "path": "packages/0.1.5/macos.json",
-      "sha256": "b22e71c77819d5fd5a69e1b2a7b3e8a71da442419013f0d084c1f0de2a1c7354",
-      "bytes": 4140219
+      "path": "packages/0.1.6/macos.json",
+      "sha256": "96fc9cc81c256d7d8e58f9412571f18d856d69da2c2e328eb633ebdc3718a974",
+      "bytes": 4140499
     },
     {
       "platform": "ios",
-      "path": "packages/0.1.5/ios.json",
-      "sha256": "2e618bef28339fbb48498cce1e9a6bc82063411431a5423eafcd083912048fb9",
-      "bytes": 4167403
+      "path": "packages/0.1.6/ios.json",
+      "sha256": "b97fcaf5135596ea46603fc89c16b9cec40282f8b42189375756e3f6f47789b5",
+      "bytes": 4167683
     },
     {
       "platform": "android",
-      "path": "packages/0.1.5/android.json",
-      "sha256": "2e618bef28339fbb48498cce1e9a6bc82063411431a5423eafcd083912048fb9",
-      "bytes": 4167403
+      "path": "packages/0.1.6/android.json",
+      "sha256": "b97fcaf5135596ea46603fc89c16b9cec40282f8b42189375756e3f6f47789b5",
+      "bytes": 4167683
     }
   ],
   "privateKeyStoredInArtifact": false,
