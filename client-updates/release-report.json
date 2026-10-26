@@ -1,0 +1,42 @@
+{
+  "pass": true,
+  "version": "0.1.5",
+  "versionCode": 105,
+  "commit": "99898f2993219e10ba9fe947ee6875b527ab9f9c",
+  "publishedAt": "2026-10-26T17:05:13+08:00",
+  "platforms": [
+    "android",
+    "ios",
+    "macos",
+    "windows"
+  ],
+  "publicKeyFingerprint": "8d2ae4b48940563f1254735ade65b162",
+  "packages": [
+    {
+      "platform": "windows",
+      "path": "packages/0.1.5/windows.json",
+      "sha256": "b22e71c77819d5fd5a69e1b2a7b3e8a71da442419013f0d084c1f0de2a1c7354",
+      "bytes": 4140219
+    },
+    {
+      "platform": "macos",
+      "path": "packages/0.1.5/macos.json",
+      "sha256": "b22e71c77819d5fd5a69e1b2a7b3e8a71da442419013f0d084c1f0de2a1c7354",
+      "bytes": 4140219
+    },
+    {
+      "platform": "ios",
+      "path": "packages/0.1.5/ios.json",
+      "sha256": "2e618bef28339fbb48498cce1e9a6bc82063411431a5423eafcd083912048fb9",
+      "bytes": 4167403
+    },
+    {
+      "platform": "android",
+      "path": "packages/0.1.5/android.json",
+      "sha256": "2e618bef28339fbb48498cce1e9a6bc82063411431a5423eafcd083912048fb9",
+      "bytes": 4167403
+    }
+  ],
+  "privateKeyStoredInArtifact": false,
+  "synchronizedRelease": true
+}

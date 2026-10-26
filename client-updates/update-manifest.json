@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "version": "0.1.5",
+  "versionCode": 105,
+  "publishedAt": "2026-10-26T17:05:13+08:00",
+  "manifests": [
+    {
+      "schemaVersion": 1,
+      "channel": "stable",
+      "version": "0.1.5",
+      "versionCode": 105,
+      "minimumCompatibleVersion": "0.1.5",
+      "publishedAt": "2026-10-26T17:05:13+08:00",
+      "packageUrl": "https://ffh594990.github.io/fc3d-public-draw-feed/client-updates/packages/0.1.5/windows.json",
+      "packageSize": 4140219,
+      "packageSha256": "b22e71c77819d5fd5a69e1b2a7b3e8a71da442419013f0d084c1f0de2a1c7354",
+      "packageSignature": "fa8ebd0fd9b9a3bfaffc2f9c42bf4010cd2df1f9394e41f623945fdaa3ee411b86dd94e1eb0d534231e72fe5402201236aa531f663af154ba07e914276530108",
+      "signingKeyId": "program:104b6714fd83",
+      "allowedFiles": [
+        "main.js",
+        "manifest.json",
+        "styles.css"
+      ],
+      "restartRequired": true,
+      "rollbackSupported": true,
+      "withdrawn": false,
+      "releaseNotes": "v0.1.5 永久自动更新基础版：iPhone、Android、Windows、macOS 四端统一程序更新；修复 iPhone 正文空白；保留开奖号自动同步与图谱命中刷新。",
+      "platform": "windows",
+      "architecture": "all",
+      "manifestSignature": "2f074ff60e6b4d0f80e9c2eb619934948c10f520170ba2fca5b97f8b0aab3dfb91424c6cacd226e02d1977dc3d310f93f7eefe2416d6fced2bd02345270f1b02"
+    },
+    {
+      "schemaVersion": 1,
+      "channel": "stable",
+      "version": "0.1.5",
+      "versionCode": 105,
+      "minimumCompatibleVersion": "0.1.5",
+      "publishedAt": "2026-10-26T17:05:13+08:00",
+      "packageUrl": "https://ffh594990.github.io/fc3d-public-draw-feed/client-updates/packages/0.1.5/macos.json",
+      "packageSize": 4140219,
+      "packageSha256": "b22e71c77819d5fd5a69e1b2a7b3e8a71da442419013f0d084c1f0de2a1c7354",
+      "packageSignature": "fa8ebd0fd9b9a3bfaffc2f9c42bf4010cd2df1f9394e41f623945fdaa3ee411b86dd94e1eb0d534231e72fe5402201236aa531f663af154ba07e914276530108",
+      "signingKeyId": "program:104b6714fd83",
+      "allowedFiles": [
+        "main.js",
+        "manifest.json",
+        "styles.css"
+      ],
+      "restartRequired": true,
+      "rollbackSupported": true,
+      "withdrawn": false,
+      "releaseNotes": "v0.1.5 永久自动更新基础版：iPhone、Android、Windows、macOS 四端统一程序更新；修复 iPhone 正文空白；保留开奖号自动同步与图谱命中刷新。",
+      "platform": "macos",
+      "architecture": "all",
+      "manifestSignature": "3cdbeb0d78180f206b728273deeddee14ed888e0da43d2cc2c85ff62fdca538eeb83c202b28c2d9a202efd919c63644bc35e501fbb1e1dfc555b66995f58060c"
+    },
+    {
+      "schemaVersion": 1,
+      "channel": "stable",
+      "version": "0.1.5",
+      "versionCode": 105,
+      "minimumCompatibleVersion": "0.1.5",
+      "publishedAt": "2026-10-26T17:05:13+08:00",
+      "packageUrl": "https://ffh594990.github.io/fc3d-public-draw-feed/client-updates/packages/0.1.5/ios.json",
+      "packageSize": 4167403,
+      "packageSha256": "2e618bef28339fbb48498cce1e9a6bc82063411431a5423eafcd083912048fb9",
+      "packageSignature": "2aeb2f8a02ff8af29aeb850dcd6310809cd9f4f3e7aaee583fa4a4eff4bf575df73c20d2dc0b4f85ec1b928f3630ee5f25d7f238eef9ec9017a815688a336d0d",
+      "signingKeyId": "program:104b6714fd83",
+      "allowedFiles": [
+        "main.js",
+        "manifest.json",
+        "styles.css"
+      ],
+      "restartRequired": true,
+      "rollbackSupported": true,
+      "withdrawn": false,
+      "releaseNotes": "v0.1.5 永久自动更新基础版：iPhone、Android、Windows、macOS 四端统一程序更新；修复 iPhone 正文空白；保留开奖号自动同步与图谱命中刷新。",
+      "platform": "ios",
+      "architecture": "all",
+      "manifestSignature": "6580ac9a1186109875e4b2461ae007ca90441e36da191ea056d9a71097c7b64d9255ced19e295fedddbc77d783a182a8f8638d05ab7a335bdb5fba6af97a5f08"
+    },
+    {
+      "schemaVersion": 1,
+      "channel": "stable",
+      "version": "0.1.5",
+      "versionCode": 105,
+      "minimumCompatibleVersion": "0.1.5",
+      "publishedAt": "2026-10-26T17:05:13+08:00",
+      "packageUrl": "https://ffh594990.github.io/fc3d-public-draw-feed/client-updates/packages/0.1.5/android.json",
+      "packageSize": 4167403,
+      "packageSha256": "2e618bef28339fbb48498cce1e9a6bc82063411431a5423eafcd083912048fb9",
+      "packageSignature": "2aeb2f8a02ff8af29aeb850dcd6310809cd9f4f3e7aaee583fa4a4eff4bf575df73c20d2dc0b4f85ec1b928f3630ee5f25d7f238eef9ec9017a815688a336d0d",
+      "signingKeyId": "program:104b6714fd83",
+      "allowedFiles": [
+        "main.js",
+        "manifest.json",
+        "styles.css"
+      ],
+      "restartRequired": true,
+      "rollbackSupported": true,
+      "withdrawn": false,
+      "releaseNotes": "v0.1.5 永久自动更新基础版：iPhone、Android、Windows、macOS 四端统一程序更新；修复 iPhone 正文空白；保留开奖号自动同步与图谱命中刷新。",
+      "platform": "android",
+      "architecture": "all",
+      "manifestSignature": "85b368c06faedd641991f7e40a2d9f6c7eb7d4df9ce643b3ee9ac51af520d3c1b7aa1394d4a59d6dadf1de3e7c57e9b71175c22542155e08590596711e258b04"
+    }
+  ]
+}
