@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "version": "0.1.5",
   "versionCode": 105,
-  "publishedAt": "2026-10-26T17:05:13+08:00",
+  "publishedAt": "2026-10-26T17:09:20+08:00",
   "manifests": [
     {
       "schemaVersion": 1,
@@ -10,7 +10,7 @@
       "version": "0.1.5",
       "versionCode": 105,
       "minimumCompatibleVersion": "0.1.5",
-      "publishedAt": "2026-10-26T17:05:13+08:00",
+      "publishedAt": "2026-10-26T17:09:20+08:00",
       "packageUrl": "https://ffh594990.github.io/fc3d-public-draw-feed/client-updates/packages/0.1.5/windows.json",
       "packageSize": 4140219,
       "packageSha256": "b22e71c77819d5fd5a69e1b2a7b3e8a71da442419013f0d084c1f0de2a1c7354",
@@ -27,7 +27,7 @@
       "releaseNotes": "v0.1.5 永久自动更新基础版：iPhone、Android、Windows、macOS 四端统一程序更新；修复 iPhone 正文空白；保留开奖号自动同步与图谱命中刷新。",
       "platform": "windows",
       "architecture": "all",
-      "manifestSignature": "2f074ff60e6b4d0f80e9c2eb619934948c10f520170ba2fca5b97f8b0aab3dfb91424c6cacd226e02d1977dc3d310f93f7eefe2416d6fced2bd02345270f1b02"
+      "manifestSignature": "585e6bfd555f4bd531a5777f5244dc74dc1e87ac9dd602d14d8afd91bd3cfe3fc2c1c30944d0eaef6a79b5ed088d38ed39f496d4dad4c231d9c88e8f11f29b04"
     },
     {
       "schemaVersion": 1,
@@ -35,7 +35,7 @@
       "version": "0.1.5",
       "versionCode": 105,
       "minimumCompatibleVersion": "0.1.5",
-      "publishedAt": "2026-10-26T17:05:13+08:00",
+      "publishedAt": "2026-10-26T17:09:20+08:00",
       "packageUrl": "https://ffh594990.github.io/fc3d-public-draw-feed/client-updates/packages/0.1.5/macos.json",
       "packageSize": 4140219,
       "packageSha256": "b22e71c77819d5fd5a69e1b2a7b3e8a71da442419013f0d084c1f0de2a1c7354",
@@ -52,7 +52,7 @@
       "releaseNotes": "v0.1.5 永久自动更新基础版：iPhone、Android、Windows、macOS 四端统一程序更新；修复 iPhone 正文空白；保留开奖号自动同步与图谱命中刷新。",
       "platform": "macos",
       "architecture": "all",
-      "manifestSignature": "3cdbeb0d78180f206b728273deeddee14ed888e0da43d2cc2c85ff62fdca538eeb83c202b28c2d9a202efd919c63644bc35e501fbb1e1dfc555b66995f58060c"
+      "manifestSignature": "c8f40e05022cce4ea785480c13596874f1ee1bdaddf95f5be1384895391eb064ce9d6c20f80c3e9b15eff875b0159df67a82485d6965827f09824cab9dc86d00"
     },
     {
       "schemaVersion": 1,
@@ -60,7 +60,7 @@
       "version": "0.1.5",
       "versionCode": 105,
       "minimumCompatibleVersion": "0.1.5",
-      "publishedAt": "2026-10-26T17:05:13+08:00",
+      "publishedAt": "2026-10-26T17:09:20+08:00",
       "packageUrl": "https://ffh594990.github.io/fc3d-public-draw-feed/client-updates/packages/0.1.5/ios.json",
       "packageSize": 4167403,
       "packageSha256": "2e618bef28339fbb48498cce1e9a6bc82063411431a5423eafcd083912048fb9",
@@ -77,7 +77,7 @@
       "releaseNotes": "v0.1.5 永久自动更新基础版：iPhone、Android、Windows、macOS 四端统一程序更新；修复 iPhone 正文空白；保留开奖号自动同步与图谱命中刷新。",
       "platform": "ios",
       "architecture": "all",
-      "manifestSignature": "6580ac9a1186109875e4b2461ae007ca90441e36da191ea056d9a71097c7b64d9255ced19e295fedddbc77d783a182a8f8638d05ab7a335bdb5fba6af97a5f08"
+      "manifestSignature": "10e03a2afafe6f01e8b828b6df5de7c1d30405f8247293958cc5b3a7fe78948f2518eb552630fdcaa05e2d317ea8e98cb3e7880c827bebd610de3ef2d19e9d0f"
     },
     {
       "schemaVersion": 1,
@@ -85,7 +85,7 @@
       "version": "0.1.5",
       "versionCode": 105,
       "minimumCompatibleVersion": "0.1.5",
-      "publishedAt": "2026-10-26T17:05:13+08:00",
+      "publishedAt": "2026-10-26T17:09:20+08:00",
       "packageUrl": "https://ffh594990.github.io/fc3d-public-draw-feed/client-updates/packages/0.1.5/android.json",
       "packageSize": 4167403,
       "packageSha256": "2e618bef28339fbb48498cce1e9a6bc82063411431a5423eafcd083912048fb9",
@@ -102,7 +102,7 @@
       "releaseNotes": "v0.1.5 永久自动更新基础版：iPhone、Android、Windows、macOS 四端统一程序更新；修复 iPhone 正文空白；保留开奖号自动同步与图谱命中刷新。",
       "platform": "android",
       "architecture": "all",
-      "manifestSignature": "85b368c06faedd641991f7e40a2d9f6c7eb7d4df9ce643b3ee9ac51af520d3c1b7aa1394d4a59d6dadf1de3e7c57e9b71175c22542155e08590596711e258b04"
+      "manifestSignature": "51813cdbc4bf35a75e50bf57a0f58b5c4031ca8459709f7f079c480f64120501b57e73837e924fb6ab9cb2b3ecd5fd4ea9fb1476030039f19af1b1f0c1a82306"
     }
   ]
 }

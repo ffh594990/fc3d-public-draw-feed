@@ -2,8 +2,8 @@
   "pass": true,
   "version": "0.1.5",
   "versionCode": 105,
-  "commit": "99898f2993219e10ba9fe947ee6875b527ab9f9c",
-  "publishedAt": "2026-10-26T17:05:13+08:00",
+  "commit": "31c30b2dbc5aace0268fc40630c6ac860d691cf9",
+  "publishedAt": "2026-10-26T17:09:20+08:00",
   "platforms": [
     "android",
     "ios",
