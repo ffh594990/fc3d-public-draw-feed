@@ -1,22 +1,22 @@
 {
   "packageVersion": 1,
   "game": "fc3d",
-  "previousLatestIssue": "2026294",
-  "latestIssue": "2026295",
+  "previousLatestIssue": "2026295",
+  "latestIssue": "2026296",
   "drawCount": 1,
   "draws": [
     {
-      "issue": "2026295",
-      "drawNumber": "741",
+      "issue": "2026296",
+      "drawNumber": "907",
       "digits": [
-        7,
-        4,
-        1
+        9,
+        0,
+        7
       ]
     }
   ],
-  "generatedAt": "2026-11-05T20:49:01.100Z",
+  "generatedAt": "2026-11-07T01:55:57.305Z",
   "sourceLabel": "福彩3D开奖公开同步",
-  "payloadHash": "4da7ee9a6a365b8157240bf0bea0c6abcb843764e8cd9421368dbbd7104527c6",
-  "signature": "548a88eb1f8842a14ee9b3db6ff5388414439d6fd6f654f31ce8875c8fdcd04473f5b7d35ab906761da1a9ca242a5cb3d5b15a29d3debfa9ba4cc7e3545bc40b"
+  "payloadHash": "d0724deb2254b3b53172181d0efcccca7036a6b83cc0c084e9319a778abbb9b0",
+  "signature": "af5da557aa34509d03cdd24b15bb16a39b7e2aeb977064e73c77ab4a26ef96e95f17d8c2cf712332348eb78ac4719488b18e121fbf2a437bdd70c85f8cd46403"
 }
